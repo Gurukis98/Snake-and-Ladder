@@ -20,7 +20,7 @@ namespace Snake_and_Ladder_UC_3
             }
             else
             {
-                Console.WriteLine("Snake");
+                Console.WriteLine("Snake") ;
             }    
         }
     }
