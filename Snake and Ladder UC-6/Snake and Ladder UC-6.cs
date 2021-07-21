@@ -24,7 +24,7 @@ namespace Snake_and_Ladder_UC_6
             arr[15] = 100;
             for (int i = 1; i < arr.Length; i++)
             {
-                Console.WriteLine("Current Position is: " + arr[i]);
+                Console.WriteLine("Current Position is : " + arr[i]);
             }
         }
     }
