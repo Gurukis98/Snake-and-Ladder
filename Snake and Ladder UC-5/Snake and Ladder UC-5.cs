@@ -15,7 +15,7 @@ namespace Snake_and_Ladder_UC_5
             }
             else
             {
-                Console.WriteLine("Not Exact Position:");
+                Console.WriteLine("Not Exact Position :");
             }
         }    
     }
