@@ -14,7 +14,7 @@ namespace Snake_and_Ladder_UC_4
                 {
                     break;
                 }
-                Console.WriteLine("Player Reaches: " + Die);
+                Console.WriteLine("Player Reaches : " + Die);
             }
 
         }
