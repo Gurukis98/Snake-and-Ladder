@@ -9,7 +9,7 @@ namespace DotNetPP
         public static void Main(string[] args)
         {
             int x = 0;
-            Console.WriteLine("Your Position is: " + x);
+            Console.WriteLine("Your Position is : " + x);
         }
     }
 }
