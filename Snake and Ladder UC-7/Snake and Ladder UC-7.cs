@@ -16,7 +16,7 @@ namespace Snake_and_Ladder_UC_7
             }
             for (int i = 1; i < 2; i++)
             {
-                Console.WriteLine("Player2 at Position: " + 85);
+                Console.WriteLine("Player2 at Position : " + 85);
             }
             if (playerCheck == Player1)
             {
